@@ -1,4 +1,3 @@
-"""
 #### Exercício 1
 
 Receba três notas (números decimais) de um aluno e imprima a média.
@@ -17,5 +16,11 @@ Média: 8.17
 
 Dica: Use inputs para receber os dados! 
 Lembre de converter ele para o tipo necessário!
-Print na tela com "print"
-"""
+
+nota1 = 8.5
+nota2 = 7.0
+nota3 = 9.0
+media = (nota1 + nota2 + nota3) / 3
+Resultado = media
+
+print(f" o resultado é: {resultado}")
