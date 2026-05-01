@@ -17,10 +17,11 @@ Digite um número:
 
 Dica: Lembre do comando de resto da divisão inteira!
 """ 
+# Solicita um número inteiro ao usuário
 numero = int(input("Digite um número: "))
 
+# Verifica se é par ou ímpar usando o resto da divisão
 if numero % 2 == 0:
     print("Par")
 else:
     print("Ímpar")
-"""
