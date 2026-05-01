@@ -53,7 +53,7 @@ Digite o genoma de referência: hg38
 
 Resposta:
 Não
-"""
+""" 
 cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
 genoma = input("Digite o genoma de referência: ")
