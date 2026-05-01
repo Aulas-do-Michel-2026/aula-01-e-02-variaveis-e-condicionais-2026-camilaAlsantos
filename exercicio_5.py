@@ -54,10 +54,12 @@ Digite o genoma de referência: hg38
 Resposta:
 Não
 """ 
+# Solicita os dados ao usuário
 cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
-genoma = input("Digite o genoma de referência: ")
+genoma = input("Digite o genoma de referência (hg19 ou hg38): ")
 
+# Verifica se está no gene BRCA1
 if cromossomo == "chr17":
     if genoma == "hg19" and 41196312 <= posicao <= 41277500:
         print("Sim")
@@ -67,4 +69,3 @@ if cromossomo == "chr17":
         print("Não")
 else:
     print("Não")
-"""
