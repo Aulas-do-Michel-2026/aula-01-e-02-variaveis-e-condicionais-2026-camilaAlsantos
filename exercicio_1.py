@@ -25,3 +25,4 @@ media = (nota1 + nota2 + nota3) / 3
 Resultado = media
 
 print(f" o resultado é: {resultado}")
+"""
