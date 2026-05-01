@@ -9,8 +9,8 @@ Exemplo:
 
 Digite o peso do paciente (em kg):
 70
-
-"""#->Resposta:
+"""
+#Resposta:
 Média: 140 mg
 
 peso = float(input("Digite o peso do paciente (em kg): "))
