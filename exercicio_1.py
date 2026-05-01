@@ -11,13 +11,13 @@ Digite a segunda nota:
 7.0
 Digite a terceira nota:
 9.0
-"""
+
 #->Resposta:
 Média: 8.17
 
 Dica: Use inputs para receber os dados! 
 Lembre de converter ele para o tipo necessário!
-
+"""
 nota1 = 8.5
 nota2 = 7.0
 nota3 = 9.0
