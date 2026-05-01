@@ -1,3 +1,4 @@
+"""
 #### Exercício 3 - Identificar se a variante está no gene BRCA1 - Versão 1.
 
 Receba 2 inputs do usuário:
@@ -35,6 +36,7 @@ Digite a posição: 41196313
 Resposta:
 Sim
 
+"""#
 cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
 
