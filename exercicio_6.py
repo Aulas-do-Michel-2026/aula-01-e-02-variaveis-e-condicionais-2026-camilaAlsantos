@@ -1,3 +1,4 @@
+"""
 #### Exercício 6 - Conversor de moeda
 
 Você é uma casa de câmbio, recebe dinheiro em reais e transforma na moeda da viagem do usuário.
@@ -50,9 +51,7 @@ Qual país você vai viajar? China
 
 Resposta:
 Não temos essa moeda em caixa.
-"""
-
-
+"""#
 pais = input("Qual país você vai viajar? ")
 
 if pais == "Estados Unidos":
