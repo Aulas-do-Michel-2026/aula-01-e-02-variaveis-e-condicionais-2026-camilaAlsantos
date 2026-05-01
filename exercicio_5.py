@@ -67,3 +67,4 @@ if cromossomo == "chr17":
         print("Não")
 else:
     print("Não")
+"""
