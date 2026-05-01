@@ -1,3 +1,4 @@
+"""
 #### Exercício 3
 
 Receba um número inteiro de um usuário. Se ele for par, imprima "Par". Se não, imprima "Ímpar".
@@ -16,6 +17,7 @@ Digite um número:
 
 Dica: Lembre do comando de resto da divisão inteira!
 
+"""#
 numero = int(input("Digite um número: "))
 
 if numero % 2 == 0:
