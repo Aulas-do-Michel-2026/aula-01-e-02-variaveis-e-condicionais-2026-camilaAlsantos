@@ -1,3 +1,4 @@
+"""
 #### Exercício 1
 
 Receba três notas (números decimais) de um aluno e imprima a média.
@@ -11,7 +12,7 @@ Digite a segunda nota:
 Digite a terceira nota:
 9.0
 
-Resposta:
+"""#->Resposta:
 Média: 8.17
 
 Dica: Use inputs para receber os dados! 
