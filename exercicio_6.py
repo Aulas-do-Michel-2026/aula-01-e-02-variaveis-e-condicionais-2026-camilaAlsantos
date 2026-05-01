@@ -51,7 +51,7 @@ Qual país você vai viajar? China
 
 Resposta:
 Não temos essa moeda em caixa.
-"""#
+"""
 pais = input("Qual país você vai viajar? ")
 
 if pais == "Estados Unidos":
