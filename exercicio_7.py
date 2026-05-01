@@ -88,7 +88,6 @@ Esse exercício está com uma resolução no notebook da aula.
 
 Tente, se não der, olhe lá!
 """
-
 freq_pop = float(input("Digite a frequencia populacional (em porcentagem): "))
 gene = input("Digite o gene: ")
 impacto = input("Digite o Impacto (ALTO ou BAIXO): ")
