@@ -17,3 +17,4 @@ peso = float(input("Digite o peso do paciente (em kg): "))
 dose = peso * 2
 
 print(f"Dose recomendada: {dose} mg")
+"""
