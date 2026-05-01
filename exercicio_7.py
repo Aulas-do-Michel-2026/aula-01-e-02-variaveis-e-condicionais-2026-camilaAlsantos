@@ -111,3 +111,4 @@ elif freq_pop > 5 and gene not in genes_excecao:
 
 else:
     print("É relevante.")
+"""
