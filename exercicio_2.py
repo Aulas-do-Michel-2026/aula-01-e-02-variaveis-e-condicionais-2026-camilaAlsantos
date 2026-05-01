@@ -1,3 +1,4 @@
+"""
 #### Exercício 2
 
 Uma fórmula recomenda 2mg de medicamento por kg de peso do paciente.
@@ -9,7 +10,7 @@ Exemplo:
 Digite o peso do paciente (em kg):
 70
 
-Resposta:
+"""#->Resposta:
 Média: 140 mg
 
 peso = float(input("Digite o peso do paciente (em kg): "))
