@@ -35,8 +35,7 @@ Digite o cromossomo: chr17
 Digite a posição: 41196313
 Resposta:
 Sim
-
-"""#
+"""
 cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
 
