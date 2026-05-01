@@ -11,8 +11,8 @@ Digite a segunda nota:
 7.0
 Digite a terceira nota:
 9.0
-
-"""#->Resposta:
+"""
+#->Resposta:
 Média: 8.17
 
 Dica: Use inputs para receber os dados! 
