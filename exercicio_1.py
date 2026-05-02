@@ -28,7 +28,7 @@ print("Digite a terceira nota:")
 nota3 = float(input())
 
 media = (nota1 + nota2 + nota3) / 3
-
+print()
 print("Resposta:")
 print(f"Média:{media:.2f}")
 
