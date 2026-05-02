@@ -13,11 +13,13 @@ Digite o peso do paciente (em kg):
 Média: 140 mg
 """
 # Solicita o peso do paciente
-peso = float(input("Digite o peso do paciente (em kg): "))
+print("Digite o peso do paciente (em kg):")
+peso = float(input())
 
 # Calcula a dose recomendada (2 mg por kg)
 dose = peso * 2
 
 # Exibe o resultado
-print(f"Dose recomendada: {dose:.2f} mg")
-"""
+print("Resposta:")
+print(f"{dose:.2f} mg")
+
