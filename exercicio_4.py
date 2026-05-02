@@ -39,7 +39,7 @@ Sim
 # Solicita os dados ao usuário
 cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
-
+print("Resposta:")
 # Verifica se está no gene BRCA1
 if cromossomo == "chr17" and 41196312 <= posicao <= 41277500:
     print("Sim")
