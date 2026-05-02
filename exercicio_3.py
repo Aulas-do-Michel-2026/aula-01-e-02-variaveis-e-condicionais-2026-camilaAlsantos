@@ -26,4 +26,5 @@ if numero % 2 == 0:
     print()
     print("Par")
 else:
+    print()
     print("Ímpar")
