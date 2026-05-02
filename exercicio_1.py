@@ -12,20 +12,17 @@ Digite a segunda nota:
 Digite a terceira nota:
 9.0
 
-#->Resposta:
+Resposta:
 Média: 8.17
 
 Dica: Use inputs para receber os dados! 
 Lembre de converter ele para o tipo necessário!
 """
-# Recebe três notas do aluno
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
 nota3 = float(input("Digite a terceira nota: "))
 
-# Calcula a média
 media = (nota1 + nota2 + nota3) / 3
 
-# Exibe o resultado com duas casas decimais
 print(f"Média: {media:.2f}")
 
