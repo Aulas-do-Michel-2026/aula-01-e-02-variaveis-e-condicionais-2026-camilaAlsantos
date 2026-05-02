@@ -20,6 +20,5 @@ peso = float(input())
 dose = peso * 2
 
 # Exibe o resultado
-print("Resposta:")
-print(f"{dose:.2f} mg")
-
+print("#Resposta:")
+print(f"Média:{dose:.2f} mg")
