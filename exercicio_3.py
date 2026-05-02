@@ -23,6 +23,7 @@ numero = int(input(""))
 
 # Verifica se é par ou ímpar usando o resto da divisão
 if numero % 2 == 0:
+    print()
     print("Par")
 else:
     print("Ímpar")
