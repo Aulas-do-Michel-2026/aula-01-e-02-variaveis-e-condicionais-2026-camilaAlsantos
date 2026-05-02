@@ -60,7 +60,7 @@ cromossomo = input("Digite o cromossomo: ")
 posicao = int(input("Digite a posição: "))
 genoma = input("Digite o genoma de referência: ")
 
-
+print()
 print("Resposta:")
 
 if cromossomo == "chr17":
