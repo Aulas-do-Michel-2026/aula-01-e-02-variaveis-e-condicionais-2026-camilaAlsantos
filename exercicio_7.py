@@ -98,6 +98,9 @@ vaf = float(input("Digite a frequencia alélica (em porcentagem): "))
 # Lista de genes de exceção
 genes_excecao = ["HFE", "MEFV", "GJB2"]
 
+print()
+print("Resposta:")
+
 # Regra 1: qualidade (artefato)
 if reads < 10 or vaf < 20:
     print("Não é relevante.")
@@ -114,6 +117,3 @@ else:
     
     else:
         print("Não é relevante.")
-
-
-
