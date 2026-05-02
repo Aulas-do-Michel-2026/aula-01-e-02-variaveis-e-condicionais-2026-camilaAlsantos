@@ -18,11 +18,17 @@ Média: 8.17
 Dica: Use inputs para receber os dados! 
 Lembre de converter ele para o tipo necessário!
 """
-nota1 = float(input("Digite a primeira nota: "))
-nota2 = float(input("Digite a segunda nota: "))
-nota3 = float(input("Digite a terceira nota: "))
+print("Digite a primeira nota:")
+nota1 = float(input())
+
+print("Digite a segunda nota:")
+nota2 = float(input())
+
+print("Digite a terceira nota:")
+nota3 = float(input())
 
 media = (nota1 + nota2 + nota3) / 3
 
-print(f"Resposta:Média: {media:.2f}")
+print("Resposta:")
+print(f"Média:{media:.2f}")
 
